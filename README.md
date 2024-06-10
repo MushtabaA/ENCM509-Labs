@@ -1,2 +1,1 @@
-# ENCM509-Labs
-Fundamentals of Biometric Systems Design Assignments
+# ENCM 509 - Fundamentals of Biometric Systems Design Labs
